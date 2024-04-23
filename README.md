@@ -27,8 +27,8 @@ The logic to consume service requires creating a list of messages from prior con
 
 The final UI will look something like this:
 ![Chat App Sequence Diagram](chat-arch.PNG)
-\
 
-For complete details on the application, please check here: (https://kafles.com/2024/04/13/practical-llm1/](https://kafles.com/2024/04/13/practical-llm1/)
-\
+
+For complete details on the application, please check here: [https://kafles.com/2024/04/13/practical-llm1/](https://kafles.com/2024/04/13/practical-llm1/)
+
 Happy Chatting!!!
