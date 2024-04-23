@@ -2,7 +2,7 @@
 The source code to build a basic chat based application using GenAI or Large Language Model (LLM). 
 
 Full sequence diagram of the chat application is shown below: 
-![Chat App Sequence Diagram](chat-arch.PNG)
+![Chat App Sequence Diagram](chat-arch.png)
 
 \
 This repo contains the frontend code built with React that consumes backend service in AWS Lambda exposed through API gateway.
@@ -26,7 +26,7 @@ The logic to consume service requires creating a list of messages from prior con
 ```
 
 The final UI will look something like this:
-![Chat App Sequence Diagram](chat-arch.PNG)
+![Chat App Sequence Diagram](chat-arch.png)
 
 
 For complete details on the application, please check here: [http://kafles.com/2024/04/13/practical-llm1/](http://kafles.com/2024/04/13/practical-llm1/)
